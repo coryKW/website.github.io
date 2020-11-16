@@ -1209,58 +1209,6 @@ a {
 .cid-sgmWZjgS1r .mbr-text {
   color: #000000;
 }
-.cid-sgrrHCLYwP {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
-}
-.cid-sgrrHCLYwP .number-wrap {
-  color: #555555;
-  text-align: center;
-}
-.cid-sgrrHCLYwP .number {
-  color: #6592e6;
-}
-.cid-sgrrHCLYwP .period {
-  display: block;
-}
-.cid-sgrrHCLYwP .dot {
-  display: none;
-}
-@media (max-width: 767px) {
-  .cid-sgrrHCLYwP .period {
-    font-size: 0.8rem;
-  }
-}
-.cid-sgrrHCLYwP .btn {
-  height: 100%;
-  margin: 0;
-}
-.cid-sgrrHCLYwP .mbr-section-btn {
-  margin-bottom: 1.2rem;
-}
-.cid-sgrrHCLYwP .icons-menu .soc-item {
-  padding-left: 8px;
-  padding-right: 8px;
-}
-.cid-sgrrHCLYwP .icons-menu .soc-item .mbr-iconfont {
-  font-size: 2rem;
-  display: flex;
-  border-radius: 50%;
-  text-align: center;
-  color: #6592e6;
-  border: 2px solid #6592e6;
-  justify-content: center;
-  align-content: center;
-  transition: all 0.3s;
-}
-.cid-sgrrHCLYwP .icons-menu .soc-item .mbr-iconfont:before {
-  padding: 0.6rem;
-}
-.cid-sgrrHCLYwP .icons-menu .soc-item .mbr-iconfont:hover {
-  background-color: #6592e6;
-  color: #ffffff;
-}
 .cid-sgmZuQ5edp {
   padding-top: 2rem;
   padding-bottom: 0rem;
